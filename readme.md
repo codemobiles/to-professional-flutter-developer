@@ -2,7 +2,7 @@
 
 ### Phase 1# - UI
 
-- Basic1 UI and Layout (Container, SizedBox, Row, Column, Stack, Position, Icon, Color, EditTextField, Image, SingleChildScrollView, Button, Event, Webview)
+- Basic1 UI and Layout (Container, SizedBox, Row, Column, Stack, Position, Icon, Color, EditTextField, Image, SingleChildScrollView, Button, Dialog, Event, Webview)
 - Basic2 UI and Flow (main, MaterialApp, Scaffold[appbar, body, floatActionButton])
 - Basic3 Navigation (Page Navigation)
 - Basic4 StatelessWidget vs StatefulWidget
@@ -24,6 +24,7 @@
 - State Management: BLOC, Provider, GetX
 - Bloc [BlocProvider, BlocBuilder, BlocListener, BlocSelector]
 - Design Patterns: [Factory, Singleton]
+- Widget contextBuilder and builder
 - Optimization
 - Tools (Plugin and Extension)
 - Code snippet
