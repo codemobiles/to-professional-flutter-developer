@@ -18,6 +18,7 @@
 - Network (Dio): Http (GET,POST,DELETE,PUT) Feed JSON, Form Model https://app.quicktype.io/
 - Feed JSON from webapi: https://jsonplaceholder.typicode.com/posts
 - Handle Error Exception of Network
+- Firebase (optional)
 
 ### Phase 3# - State Management and tools
 
@@ -29,13 +30,14 @@
 - Tools (Plugin and Extension)
 - Code snippet
 
-### Phase 4#
+### Phase 4# (MVP)
 
 - Deployment (android and ios)
 - Deploy to GooglePlay
 - Deploy to AppStore
 - logger
 - Build Environment (DEV, UAT, PRD)
+- Admob and inAppPurchase
 
 ### Phase 5#
 
