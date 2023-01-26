@@ -9,10 +9,22 @@
 - Basic5 Collection UI (ListView, GridView, Custom Cell)
 - Basic6 Custom Widget (know how to communicate between widget)
 - Basic7 Realize what will happy when call setState function, how to impact to the performance
+- Basic8 Platform Handling (iOS, Android, Desktop)
 
 ### Phase 2#
 
 - Network (Dio): Http (GET,POST,DELETE,PUT) Feed JSON, Form Model https://app.quicktype.io/
 - Feed JSON from webapi: https://jsonplaceholder.typicode.com/posts
 - Handle Error Exception of Network
-- 
+
+### Phase 3#
+
+- State Management: BLOC, Provider, GetX
+
+### Phase 4#
+
+- Deployment (android and ios)
+- Deploy to GooglePlay
+- Deploy to AppStore
+- logger
+- Build Environment (DEV, UAT, PRD)
