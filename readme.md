@@ -12,18 +12,21 @@
 - Basic8 Platform Handling (iOS, Android, Desktop)
 - Basic9 Global and Local Key, FormState
 - Basic10 Focus and Unfocus
+
 ### Phase 2# - Network
 
 - Network (Dio): Http (GET,POST,DELETE,PUT) Feed JSON, Form Model https://app.quicktype.io/
 - Feed JSON from webapi: https://jsonplaceholder.typicode.com/posts
 - Handle Error Exception of Network
 
-### Phase 3# - State Management
+### Phase 3# - State Management and tools
 
 - State Management: BLOC, Provider, GetX
 - Bloc [BlocProvider, BlocBuilder, BlocListener, BlocSelector]
-- Design Patterns: [Factory, Singleton, ]
+- Design Patterns: [Factory, Singleton]
 - Optimization
+- Tools (Plugin and Extension)
+- Code snippet
 
 ### Phase 4#
 
