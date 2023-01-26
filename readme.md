@@ -2,4 +2,5 @@
 
 ### Phase 1#
 
-- UI
+- Basic1 UI (Container, SizedBox, Row, Column, Icon, Color, EditTextField, Image, SingleChildScrollView)
+- Basic2 UI (main, MaterialApp, Scaffold[appbar, body, floatActionButton])
