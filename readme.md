@@ -12,13 +12,17 @@
 - Basic8 Platform Handling (iOS, Android, Desktop)
 - Basic9 Global and Local Key, FormState
 - Basic10 Focus and Unfocus
+- Basic11 Animation and Graph
 
-### Phase 2# - Network
+
+### Phase 2# - Network and Interface
 
 - Network (Dio): Http (GET,POST,DELETE,PUT) Feed JSON, Form Model https://app.quicktype.io/
 - Feed JSON from webapi: https://jsonplaceholder.typicode.com/posts
 - Handle Error Exception of Network
 - Firebase (optional)
+- Camera and Photo gallery
+- Google Map and Location Tracking
 
 ### Phase 3# - State Management and tools
 
